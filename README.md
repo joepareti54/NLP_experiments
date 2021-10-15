@@ -11,7 +11,7 @@ https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/
 
 the data set is a pdf converted to text from wsj using https://pdftotext.com/
 
-source - see line below with the url
+source - at this url:
 https://www.wsj.com/articles/the-day-coronavirus-nearly-broke-the-financial-markets-11589982288
 
 The advanced code does an amazing job of summarization on an article I know very well.
