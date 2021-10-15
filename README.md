@@ -10,6 +10,7 @@ use the code in this site
 https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/
 
 the data set is a pdf converted to text from wsj using https://pdftotext.com/
+
 source - see line below with the url
 https://www.wsj.com/articles/the-day-coronavirus-nearly-broke-the-financial-markets-11589982288
 
