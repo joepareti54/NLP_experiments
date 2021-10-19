@@ -32,5 +32,7 @@ see https://www.linkedin.com/posts/joseph-pareti-b603a9a_google-machinetranslati
 
 Use T5 Transformer from John Snow Lab as shown here: https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/streamlit_notebooks/T5TRANSFORMER.ipynb
 
+The latter has been implemented in notebook codeA_JSL.ipynb using code from https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/streamlit_notebooks/T5TRANSFORMER.ipynb
 
+Howver, comparing codeA_0.ipynb and codeA_JSL.ipynb shows that T5 summarizes the text even further, but lots of the article informtation and insights are lost
 
