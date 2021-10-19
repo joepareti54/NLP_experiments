@@ -24,4 +24,13 @@ Perhaps one could optimize the pipeline: in my case, I just converted pdf to tex
 
 This experiment is intended as a starting point. Even so I can envisage using it on many articles I have collected and it will help me summarizing better.
 
+# Next steps
+
+Remove  newline (\n) characters in the text file as follows:
+sed ':a;N;$!ba;s/\n/ /g' foo.txt > foo_output.txt
+see https://www.linkedin.com/posts/joseph-pareti-b603a9a_google-machinetranslation-preprocessing-activity-6855540890677608448-Txup/
+
+Use T5 Transformer from John Snow Lab as shown here: https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/streamlit_notebooks/T5TRANSFORMER.ipynb
+
+
 
